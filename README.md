@@ -1,6 +1,6 @@
 # GameOfLlife
 
-This is the game of life, this game is cosidered machine learning.
+This is the game of life, this game is cellular automaton.
 
 Game rules:
 
